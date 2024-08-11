@@ -1,6 +1,3 @@
-Oto prosty kod HTML, który stworzy minimalistyczną stronę z Twoim zaproszeniem:
-
-```html
 <!DOCTYPE html>
 <html lang="pl">
 <head>
@@ -76,6 +73,3 @@ Oto prosty kod HTML, który stworzy minimalistyczną stronę z Twoim zaproszenie
     </div>
 </body>
 </html>
-```
-
-Ten kod stworzy stronę z minimalistycznym designem, która jest czytelna i przyjazna dla użytkownika. Strona jest responsywna, więc będzie wyglądać dobrze zarówno na komputerze, jak i na urządzeniach mobilnych.
