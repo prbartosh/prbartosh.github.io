@@ -12,7 +12,7 @@ body {
 }
 
 .link:hover {
-    color: hotpink;
+    color: #16a085;
 }
 
 .container {
@@ -27,6 +27,11 @@ body {
 
 #welcome {
     text-align: center;
+}
+
+#critic {
+    text-align: center;
+    color: red;
 }
 
 #bye {
