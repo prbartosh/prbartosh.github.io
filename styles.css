@@ -1,6 +1,10 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    /* background-color: #b0d3e6; */
+    background-image: url('assets/stairy_night.jpg'); /* podaj właściwą nazwę pliku */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     color: #333;
     margin: 0;
     padding: 20px;
@@ -12,11 +16,11 @@ body {
 }
 
 .link:hover {
-    color: #16a085;
+    color: #7c389c;
 }
 
 .container {
-    background-color: #fff;
+    background-color: #eaf8ff;
     padding: 20px;
     border-radius: 8px;
     width: 100%;
@@ -26,7 +30,8 @@ body {
 }
 
 #important {
-    font-size: 1.3em;
+    /* font-size: 1.15em; */
+    text-align: center;
 }
 
 #welcome {
@@ -44,14 +49,14 @@ body {
 
 h1 {
     font-size: 24px;
-    color: #2c3e50;
+    color: #155475;
     text-align: center;
     margin-bottom: 20px;
 }
 
 h2 {
     font-size: 20px;
-    color: #16a085;
+    color: #155475;
     margin-top: 20px;
     margin-bottom: 10px;
 }
@@ -62,7 +67,7 @@ p {
 }
 
 a {
-    color: #2980b9;
+    color: #155475;
     text-decoration: none;
 }
 
