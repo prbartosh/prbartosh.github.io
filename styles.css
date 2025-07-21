@@ -16,7 +16,7 @@ body {
 }
 
 .link:hover {
-    color: #7c389c;
+    color: rgb(168, 16, 16);;
 }
 
 .container {
@@ -40,7 +40,7 @@ body {
 
 #critic {
     text-align: center;
-    color: red;
+    color: rgb(168, 16, 16);
 }
 
 #bye {
@@ -59,6 +59,7 @@ h2 {
     color: #155475;
     margin-top: 20px;
     margin-bottom: 10px;
+    text-transform:uppercase;
 }
 
 p {
